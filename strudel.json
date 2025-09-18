@@ -1,0 +1,9 @@
+{
+  "_base": "https://raw.githubusercontent.com/hfrazer/sampledsounds/",
+  "shorthorn": "CarHorn-Short.wav",
+  "vshorthorn": "CarHorn-VeryShort.wav",
+  "getdown": "GetDown-YewGetDown.wav",
+  "getdown": "YewGetDownHomie.wav",
+  "woop": "Siren-WoopWoop.wav"
+
+}
