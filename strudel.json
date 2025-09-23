@@ -1,11 +1,22 @@
 {
   "_base": "https://raw.githubusercontent.com/hfrazer/sampledsounds/main",
-  "shorthorn": "carhorns/CarHorn-Short.wav",
-  "vshorthorn": "carhorns/CarHorn-VeryShort.wav",
-  "getdown": "getdown-YewGetDown.wav",
-  "getdownhomie": "getdown/YewGetDownHomie.wav",
-  "woop": "sirensBREAKINGCHANGE/Siren-WoopWoop.wav"
+  "shorthorn":[
+  "carhorns/CarHorn-Short.wav"
+  ],
+  "vshorthorn":[ 
+    "carhorns/CarHorn-VeryShort.wav",
+  ],
+  "getdown":[ 
+    "getdown-YewGetDown.wav"
+  ],
+  "getdownhomie": [
+    "getdown/YewGetDownHomie.wav"
+  ],
+  "woop": [
+    "sirensBREAKINGCHANGE/Siren-WoopWoop.wav"
+  ]
 }
+
 
 
 
